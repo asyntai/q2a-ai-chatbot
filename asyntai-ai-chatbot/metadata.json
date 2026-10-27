@@ -1,0 +1,13 @@
+{
+	"name": "Asyntai AI Chatbot",
+	"uri": "https://asyntai.com/documentation/installation/question2answer/",
+	"description": "Adds the Asyntai AI chatbot to your Q2A site. It answers visitor questions from your own pages, 24/7, in more than 80 languages.",
+	"version": "1.0.0",
+	"date": "2026-10-26",
+	"author": "Asyntai",
+	"author_uri": "https://asyntai.com",
+	"license": "MIT",
+	"min_q2a": "1.8",
+	"min_php": "5.4",
+	"load_order": "after_db_init"
+}
